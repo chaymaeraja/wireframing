@@ -51,3 +51,39 @@ The wireframe used in this project is a 🎨 High-Fidelity Wireframe.
 🌟 Closely represents the final product with colors, typography, and interactivity.
 
 📐 Ideal for client presentations, usability testing, and development handoff.
+
+
+
+
+###### 🛠️ Popular Wireframing Tools
+**🌟 Recommended Tool: Figma**
+Figma is a powerful and versatile tool widely used for creating both low-fidelity and high-fidelity wireframes.
+
+🔑 Key Features:
+
+Real-Time Collaboration: Multiple users can work on the same project simultaneously.
+
+Cross-Platform: Works on Windows, macOS, and in the browser.
+
+Design & Prototyping: Create interactive prototypes directly from wireframes.
+
+Component Libraries: Reusable UI components to streamline the design process.
+
+Version Control: Easily track changes and maintain previous versions.
+
+Plugins and Integrations: Extend functionality with community-made plugins.
+
+**🌟 Why Choose Figma for Wireframing?**
+
+Intuitive and user-friendly interface.
+
+Facilitates team collaboration and real-time feedback.
+
+Offers both basic wireframing tools and advanced UI design capabilities.
+
+Easily transitions from wireframe to prototype, minimizing effort.
+
+Free tier available with sufficient features for most small to medium projects.
+
+🔗 Learn more: Figma Official Site
+
